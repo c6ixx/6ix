@@ -1,19 +1,6 @@
-```css
-┃ COMING SOON ┃
+# HACKS
 
-[*] NEW CUSTOM UI
-[*] New Scripts
-  [-] Nicos Nextbots [PLANNED]
-  [-] Doors [PLANNED]
-  [-] Bloxburg [PLANED]
-  [/] Criminality [COMPLETED, RELEASING SOON]
-  [/] Alt Control [COMPLETED, RELEASING SOON]
-  [+] Script Hub [EXPERIMENTAL]
-  [/] Chicblocko [UPDATING]
-  [-] Da Hood [SOON]
-[*] More premium features
-[*] Discord updates
-[*] Executor??
-[*] Release my UI Lib [SOON]
-[*] Whitelist system for Premium
+```css
+[*] ALL CHEATING/HACKS RELATED STUFF
+  [-] [I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS]
 ```
